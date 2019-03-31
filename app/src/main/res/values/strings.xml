@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="image_desc">star image</string>
+    <string name="input_hint">Enter your name</string>
+
+    <string name="my_name">Gangadhar Lahane</string>
+    <string name="my_bio">Hi, I create and style content for both Android and the web.\n\n
+        I currently work as a Senior Android engineer at Instacart.\n
+        In the past I\'ve worked for a bunch of startups and companies always tinkering with computers and software.\n\n
+        All my open source stuff is on github.
+        I don\'t actually practice martial arts, but I\'ve watched every single Bruce Lee movie.</string>
+</resources>
